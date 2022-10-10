@@ -27,4 +27,4 @@
 - O Estoque possui dados de Localização e Quantidade.
 
 ### Esquema:
-![alt text](https://github.com/RafaelKamada/ordem-servico_db_modelagem/blob/main/Ordem%20de%20Servico.png)
+![alt text](https://github.com/RafaelKamada/E-commerce-dio/blob/main/Construindo%20seu%20Primeiro%20Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados/ECOMMERCE_DESAFIO.png)
